@@ -39,5 +39,3 @@ public class AvailabilityController {
         return repository.save(availability);
     }
 }
-
-//hahahahaha
